@@ -1,0 +1,1 @@
+import{u as t,a,r as o,j as n,L as r}from"./index-BGVyTCu4.js";const u=()=>{const{loggedIn:s}=t(),e=a();return o.useEffect(()=>{e(s?"/dashboard":"/auth/login")},[s]),n.jsx(r,{})};export{u as HomeView};
